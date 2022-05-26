@@ -12,7 +12,7 @@
 
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Programming Languages:
 
